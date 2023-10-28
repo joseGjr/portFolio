@@ -13,6 +13,11 @@
 ### 💻 Projeto
 "Este projeto foi concebido com o propósito de aprimorar as habilidades em desenvolvimento web, com ênfase na criação de interfaces (front-end). Foi apresentado durante o curso de Sistemas de Informação, onde os alunos tinham a tarefa de elaborar um currículo personalizado, utilizando tecnologias de sua escolha. No meu caso, escolhi abordar o trabalho focando na implementação do front-end."
 
+### 💻 Demostração
+<br><br>
+
+<img src="./img/demo1.png" alt=""><br><br>
+<img src="./img/demo1resp.png" alt="">
 
 
 ### ⚙ Pré-requisitos
