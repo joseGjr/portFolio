@@ -16,7 +16,7 @@
 ### 💻 Demostração
 <br><br>
 
-<img src="./img/demo1.png" alt=""><br><br>
+<img src="./img/demo1.png" alt="">
 <img src="./img/demo1resp.png" alt="">
 
 
